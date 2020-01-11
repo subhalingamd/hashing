@@ -1,0 +1,32 @@
+insert Ram Singh Nilgiri CS 6.5
+insert Shyam Singh Nilgiri EE 6.5
+delete Ram Singh
+insert Shyam Singh Nilgiri EE 6.5
+insert Shyam Ram Nilgiri EE 6.5
+insert Lallan Singh Nilgiri EE 6.5
+insert Singh Singh Nilgiri EE 6.5
+insert Babu Singh Nilgiri EE 6.5
+insert Singh Babu Nilgiri EE 6.5
+insert Babu Ram Nilgiri EE 6.5
+insert Ramu Singh Nilgiri EE 6.5
+insert Ramuu Singh Nilgiri EE 6.5
+insert Ramy Singh Nilgiri EE 6.5
+insert Ram Babu Nilgiri EE 6.5
+insert Ramu Babu Nilgiri EE 6.5
+insert Googl Singh Nilgiri EE 6.5
+address Googl Singh
+address Ramu Babu
+address Ram Babu
+address Ramy Singh
+address Ramuu Singh
+address Ramu Singh
+address Babu Ram
+address Singh Babu
+address Babu Singh
+address Singh Singh
+address Lallan Singh
+address Shyam Ram
+address Shyam Singh
+address Ram Singh
+delete Ramu Singh
+address Ramu Babu

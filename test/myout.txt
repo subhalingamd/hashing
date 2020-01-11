@@ -1,0 +1,248 @@
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+1
+2
+1
+1
+1
+1
+1
+3
+4
+2
+4
+2
+2
+1
+1
+1
+1
+4
+2
+1
+2
+1
+4
+5
+1
+Mohan Kumar xyz xyz xyz
+1
+1
+67
+T
+Abhishek Sharma xyz xyz xyz
+E
+T
+T
+T
+2
+F
+T
+Mohan Sharma xyz xyz xyz
+2
+1
+23
+59
+Shyam Kumar xyz xyz xyz
+Shyam Kumar xyz xyz xyz
+24
+Shyam Bansal xyz xyz xyz
+T
+1
+1
+4
+T
+T
+F
+T
+Shyam Sharma xyz xyz xyz
+T
+1
+70
+1
+71
+Mohan Gupta xyz xyz xyz
+13
+1
+F
+T
+Ram Agrawal xyz xyz xyz
+9
+49
+28
+2
+1
+1
+17
+T
+30
+T
+1
+E
+Aman Tiwari xyz xyz xyz
+E
+Aman Agrawal xyz xyz xyz
+15
+2
+70
+1
+13
+E
+T
+T
+1
+1
+1
+1
+T
+Shyam Agrawal xyz xyz xyz
+F
+Mohan Agrawal xyz xyz xyz
+4
+E
+5
+E
+Ram Agrawal xyz xyz xyz
+Mohan Agrawal xyz xyz xyz
+1
+E
+1
+Shyam Singh xyz xyz xyz
+1
+F
+1
+1
+24
+19
+15
+T
+F
+T
+T
+1
+1
+F
+2
+E
+13
+E
+11
+59
+T
+E
+E
+F
+F
+1
+T
+F
+Mohan Singh xyz xyz xyz
+2
+E
+T
+Ram Gupta xyz xyz xyz
+F
+E
+2
+E
+45
+1
+F
+52
+E
+64
+E
+E
+E
+4
+Shyam Sharma xyz xyz xyz
+T
+1
+1
+E
+E
+E
+70
+T
+Shyam Sharma xyz xyz xyz
+E
+4
+E
+1
+4
+E
+E
+Shyam Agrawal xyz xyz xyz
+13
+3
+2
+E
+F
+1
+Abhishek Sharma xyz xyz xyz
+45
+1
+15
+T
+E
+F
+34
+E
+E
+E
+70
+E
+3
+E
+1
+E
+Ram Tiwari xyz xyz xyz
+1
+T
+Abhishek Kumar xyz xyz xyz
+2
+1
+E
+2
+F
+61
+F
+F
+Ram Tiwari xyz xyz xyz
+E
+Shyam Bansal xyz xyz xyz
+T
+E
+E
+E
+Mohan Kumar xyz xyz xyz
+1
+1
+F
+11
+1
+E
+T
+F
+E

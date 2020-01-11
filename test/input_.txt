@@ -1,0 +1,106 @@
+insert Ishat Radhakrishnan Terai CSE 8
+insert Anshula Chanda Pupri EE 8
+insert Rakhi Gole Pudukkottai IT 8
+insert Dinesh Kashyap Gogola MNC 8
+insert Drishti Mehra Tikhola AI 8
+insert Lalita Oza Baghaura ME 9
+insert Kusum Karan Simalya MNC 9
+insert Faraz Raj Bairgaon CSE 9
+insert Ganesh Bhakta Kachaura EE 9
+insert Mustafa Brahmbhatt Tarats IT 9
+insert Farah Rout Pudukkottai MNC 10
+insert Damini Bhargava Gogola MNC 10
+insert Shweta Dixit Tikhola CSE 9
+insert John Harjo Baghaura MNC 10
+insert Munaf Pandit Simalya AI 8
+insert Rupesh Kota Bairgaon CSE 8
+insert Nirmal Babu Pudukkottai MNC 8
+insert Mohan Kothari Gogola CSE 8
+insert Jawahar Varughese Tikhola CSE 9
+insert Somnath Karan Baghaura AI 9
+insert Baldev Contractor Simalya CSE 9
+insert Kasturi Saxena Bairgaon MNC 10
+insert Rajesh Bail Gogola ME 8
+insert Aarif Sundaram Tikhola CSE 7
+insert Savita Mandal Baghaura AI 8
+insert Himanshu Lall Simalya MNC 6
+insert Fardeen Ahluwalia Bairgaon MNC 8
+insert Chandni Chowdhury Pudukkottai IT 8
+insert Arvind Gara Gogola ME 8
+insert Nayan Srinivasan Tikhola MNC 9
+insert Geetanjali Prashad Baghaura IT 9
+insert Afreen Salvi Simalya MNC 9
+insert Nirmal Tripathi Bairgaon ME 10
+insert Abbas Lanka Gogola MNC 10
+insert Mini Dani Tikhola MNC 8
+insert Naseer Zachariah Baghaura CSE 8
+insert Indrani Bhakta Simalya MNC 8
+insert Brock Bandi Bairgaon AI 9
+insert Ragini Nagi Pudukkottai CSE 9
+insert Vijay Desai Gogola MNC 9
+insert Ritika Narain Baghaura CSE 8
+insert Urmila Oommen Simalya CSE 8
+insert Jagat Bhavsar Bairgaon AI 8
+insert Rakhi Salvi Gogola CSE 9
+insert Sapna Badami Baghaura ME 9
+address Lalita Oza 
+address Kusum Karan 
+address Faraz Raj 
+address Ganesh Bhakta 
+address Mustafa Brahmbhatt 
+address Farah Rout 
+address Damini Bhargava 
+address Shweta Dixit 
+address John Harjo 
+address Munaf Pandit 
+address Rupesh Kota 
+address Nirmal Babu 
+address Mohan Kothari 
+address Jawahar Varughese 
+address Somnath Karan 
+address Baldev Contractor 
+address Kasturi Saxena 
+address Rajesh Bail 
+address Aarif Sundaram 
+address Savita Mandal 
+address Himanshu Lall 
+address Fardeen Ahluwalia 
+address Chandni Chowdhury 
+address Arvind Gara 
+address Nayan Srinivasan 
+address Geetanjali Prashad 
+address Afreen Salvi 
+address Nirmal Tripathi 
+address Abbas Lanka 
+address Mini Dani 
+address Naseer Zachariah 
+address Indrani Bhakta 
+address Brock Bandi 
+address Ragini Nagi 
+address Vijay Desai 
+address Ritika Narain 
+address Urmila Oommen 
+address Jagat Bhavsar 
+address Rakhi Salvi 
+address Sapna Badami 
+update Indrani Bhakta Pudukkottai IT 8
+update Brock Bandi Gogola MNC 8
+update Ragini Nagi Tikhola AI 8
+update Vijay Desai Baghaura ME 9
+update Ritika Narain Simalya MNC 9
+update Urmila Oommen Bairgaon CSE 9
+update Jagat Bhavsar Kachaura EE 9
+update Rakhi Salvi Tarats IT 9
+update Sapna Badami Baghaura ME 9
+contains Munaf Pandit 
+contains Rupesh Kotah 
+contains Nirmal Babu 
+contains Mohana Kothari 
+contains Jawahar Varughese 
+get Rakhi Gole 
+get Rakhi Salvi 
+get Vijay Desai 
+get Ritika Narain 
+get Urmila Oommen 
+get Ishat Radhakrishnan 
+get Anshula Chanda 
